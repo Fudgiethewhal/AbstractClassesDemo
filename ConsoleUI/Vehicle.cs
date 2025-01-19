@@ -14,4 +14,6 @@ internal abstract class Vehicle
     {
         Console.WriteLine("Default Virtual Drive Method");
     }
+
+  
 }
